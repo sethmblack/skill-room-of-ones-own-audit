@@ -4,7 +4,7 @@ description: Assess the material conditions required for sustained creative or i
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4874
+  version: 1.0.4875
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - room-of-one's-own-audit
